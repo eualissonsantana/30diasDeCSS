@@ -10,3 +10,10 @@ em HTML5 e CSS3 através da realização de projetos
 * Realizar um projeto por dia
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
+
+## Desafio dia 01 - Ícone de mídia social em camadas
+![desafio-01](https://user-images.githubusercontent.com/40476367/89294202-8c14b700-d635-11ea-854f-98c37170c9dd.gif)
+
+## Desafio dia 02 - Loader animado
+
+![desafio-02](https://user-images.githubusercontent.com/40476367/89293500-6509b580-d634-11ea-9cb0-e507d10cbd72.gif)
