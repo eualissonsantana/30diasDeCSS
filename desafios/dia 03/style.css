@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: absolute;
+    background: #FF6B36;
+    color: #002B33;
+}
+
+.wrapper {
+    height: 100%;
+    width: 50%;
+    background: #005C68;
+    overflow: hidden;
+    color: #FF6B36;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.slide {
+    position: absolute;
+    top: 50%;
+    white-space: nowrap;
+    font-size: 10em;
+    overflow: hidden;
+    animation: slide 16s linear infinite;
+}
+
+
+@keyframes slide {
+    0% {
+        transform: translate(0, -50%);
+    }
+    100% {
+        transform: translate(-50%, -50%);
+    }
+}
