@@ -18,8 +18,8 @@ em HTML5 e CSS3 através da realização de projetos
 
 ![desafio-02](https://user-images.githubusercontent.com/40476367/89293500-6509b580-d634-11ea-9cb0-e507d10cbd72.gif)
 
-## Mudança de cor de texto quando entra em outra div
-![desafio-03](https://raw.githubusercontent.com/alissongp/30diasDeCSS/master/desafios/dia03/gif/dia-03.gif)
+## Desafio dia 03 - Mudança de cor de texto quando entra em outra div
+![desafio-03](https://raw.githubusercontent.com/alissongp/30diasDeCSS/master/desafios/dia%2003/gif/dia-03.gif)
 
 ## Desafio dia 04 - Botão com efeito
 ![gif](https://user-images.githubusercontent.com/40476367/89580047-2aa64100-d80b-11ea-8665-4415daca02bd.gif)
