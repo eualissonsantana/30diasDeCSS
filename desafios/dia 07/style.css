@@ -1,0 +1,114 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.text {
+    margin-top: 20px;
+}
+
+.text h2 {
+    animation: text-animation 1.5s ease infinite;
+}
+
+span {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+span:nth-child(1) {
+    background-color: #FE4365;
+    position: relative;
+    animation: circle1 2.5s ease-in-out infinite;
+}
+
+span:nth-child(2) {
+    background-color: #69D2E7;
+    position: relative;
+    animation: circle2 2.5s ease-in-out infinite;
+    top: -60px;
+}
+
+span:nth-child(3) {
+    background-color: #F8CA00;
+    position: relative;
+    animation: circle3 2.5s ease-in-out infinite;
+}
+
+@keyframes circle1{
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    33% {
+        left: 60px;
+        top: -70px;
+    }
+    66% {
+        left: 100px;
+        top: 0px;
+    }
+    100% {
+        left: 0;
+        top: 0px;
+    }
+}
+
+@keyframes circle2{
+    0% {
+        left: 0;
+        top: -70px;
+    }
+    33% {
+        left: 60px;
+        top: 0px;
+    }
+    66% {
+        left: -60px;
+        top: 0px;
+    }
+    100% {
+        left: 0;
+        top: -70px;
+    }
+}
+
+@keyframes circle3{
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+    33% {
+        left: -100px;
+        top: 0px;
+    }
+    66% {
+        left: -60px;
+        top: -70px;
+    }
+    100% {
+        left: 0;
+        top: 0px;
+    }
+}
+
+@keyframes text-animation {
+    0% {
+        opacity: 0.3;
+    }
+}
