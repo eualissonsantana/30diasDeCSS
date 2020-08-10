@@ -26,3 +26,14 @@ em HTML5 e CSS3 através da realização de projetos
 
 ## Desafio dia 05 - Efeito pulsar
 ![gif](https://user-images.githubusercontent.com/40476367/89681674-c4352780-d8cb-11ea-8463-37468638a355.gif)
+
+## Desafio dia 06 - Efeito Lightning text
+![gif](https://user-images.githubusercontent.com/40476367/89779497-e30f0600-dae5-11ea-9c70-d22c63d05cf4.gif)
+
+## Desafio 07 - Preloader animado
+![gif (1)](https://user-images.githubusercontent.com/40476367/89779373-9297a880-dae5-11ea-8112-eaf58c3c78bf.gif)
+
+## Desafio 08 - Coração pulsando
+![coracao](https://user-images.githubusercontent.com/40476367/89779972-e48cfe00-dae6-11ea-8a6a-969c93eb8bd6.gif)
+
+
