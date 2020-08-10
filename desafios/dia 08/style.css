@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+img {
+    animation: pulse 0.8s ease infinite;
+    width: 500px;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    20% {
+        transform: scale(1.10);
+    }
+    60% {
+        transform: scale(1);
+    }
+    75% {
+        transform: scale(1.10);
+    }
+
+}
