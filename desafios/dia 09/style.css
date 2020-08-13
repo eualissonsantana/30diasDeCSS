@@ -1,0 +1,107 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Recursive', sans-serif;
+    background-color: #EDD300;
+}
+
+.ball {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: #E3E4E9;
+    animation: animate 5s linear infinite;
+    position: relative;
+    margin-right: 5px;
+}
+
+.paleta {
+    background-color: #E3E4E9;
+    height: 250px;
+    width: 30px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.plt1 {
+    right: 680px;
+    animation: plt1 5s ease infinite;
+}
+
+.plt2 {
+    left: 680px;
+    animation: plt2 5s ease-in infinite;
+}
+
+
+@keyframes animate {
+    0% {
+       top: 0;
+       right: 0;
+    }
+    15% {
+        top: 340px;
+        right: 400px;
+    }
+    30% {
+        top: 150px;
+        right: 700px;
+    }
+    45% {
+        top: -336px;
+        right: 150px;
+    }
+
+    60% {
+        top: 340px;
+        right: -300px;
+    }
+    75% {
+        top: 0px;
+        right: -700px;
+    }
+
+    90% {
+        top: -340px;
+        right: -250px;
+    }
+
+    100% {
+        top: 0;
+        right: 0;
+    }
+}
+
+@keyframes plt1 {
+    0% {
+        top: -250px;
+    }
+
+    50% {
+        top: 250px;
+    }
+    
+    100% {
+        top: -250px;
+    }
+}
+
+@keyframes plt2 {
+    0% {
+        top: 250px;
+    }
+
+    50% {
+        top: -250px;
+    }
+    
+    100% {
+        top: 250px;
+    }
+}
+
+
