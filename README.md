@@ -36,4 +36,8 @@ em HTML5 e CSS3 através da realização de projetos
 ## Desafio 08 - Coração pulsando
 ![coracao](https://user-images.githubusercontent.com/40476367/89779972-e48cfe00-dae6-11ea-8a6a-969c93eb8bd6.gif)
 
+## Desafio 09 - Pong Animation
+![gif](https://user-images.githubusercontent.com/40476367/90159798-49ef2200-dd67-11ea-996c-d87ffc72fb8d.gif)
+
+
 
