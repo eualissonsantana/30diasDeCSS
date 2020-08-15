@@ -39,5 +39,9 @@ em HTML5 e CSS3 através da realização de projetos
 ## Desafio 09 - Pong Animation
 ![gif](https://user-images.githubusercontent.com/40476367/90159798-49ef2200-dd67-11ea-996c-d87ffc72fb8d.gif)
 
+## Desafio 10 - Alternando texto
+![gif](https://user-images.githubusercontent.com/40476367/90301519-cf152c80-de76-11ea-9f60-3415ade2855a.gif)
+
+
 
 
