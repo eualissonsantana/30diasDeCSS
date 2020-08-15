@@ -1,0 +1,52 @@
+@import url(//db.onlinewebfonts.com/c/b2e75c336df191233b3096682c9ee6be?family=PixelarRegularW01-Regular);
+
+@font-face {
+    font-family: "PixelarRegularW01-Regular"; 
+    src: url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.eot"); 
+    src: url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.eot?#iefix") 
+    format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.woff2") 
+    format("woff2"), url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.woff") 
+    format("woff"), url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.ttf") 
+    format("truetype"), url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.svg#PixelarRegularW01-Regular") 
+    format("svg"); 
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: PixelarRegularW01-Regular;
+    font-size: 50px;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+}
+
+span::before {
+    content: '';
+    animation: animate 6s infinite;
+}
+
+@keyframes animate {
+    0% {
+        content: '🍕';
+    }
+    20% {
+        content:'🎸' ;
+    }
+    40% {
+       content: '🏎️';
+    }
+    60% {
+        content: '🎮';
+    }
+    80% {
+        content: '⚽';
+    }
+    100% {
+        content: ' 💻'
+    }
+}
+
