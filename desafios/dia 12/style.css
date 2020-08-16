@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 5rem;
+    color: rgba(157, 76, 197, 0.4);
+    position: relative;
+    cursor: pointer;
+}
+
+h1::before {
+    content: "#desafio30diasdeCSS";
+    position: absolute;
+    color: #5E0D86;
+    top: 0%;
+    left: 0%;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.8s;
+}
+
+h1:hover::before {
+    width: 100%;
+}
