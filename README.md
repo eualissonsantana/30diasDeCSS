@@ -42,6 +42,11 @@ em HTML5 e CSS3 através da realização de projetos
 ## Desafio 10 - Alternando texto
 ![gif](https://user-images.githubusercontent.com/40476367/90301519-cf152c80-de76-11ea-9f60-3415ade2855a.gif)
 
+## Dia 11 - Botão com efeito hover
+![gif (1)](https://user-images.githubusercontent.com/40476367/90346315-41fcdf80-dffe-11ea-80a0-77f716b4bb15.gif)
+
+## Dia 12 - Efeito de preenchimento ao passar o mouse
+![gif](https://user-images.githubusercontent.com/40476367/90346294-0f52e700-dffe-11ea-9329-f7be77aee257.gif)
 
 
 
